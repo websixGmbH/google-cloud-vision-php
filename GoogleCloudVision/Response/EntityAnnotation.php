@@ -47,9 +47,6 @@ class EntityAnnotation
   */
   protected $properties = array();
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

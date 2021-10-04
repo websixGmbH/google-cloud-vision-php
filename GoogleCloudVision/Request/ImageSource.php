@@ -53,4 +53,4 @@ class ImageSource implements JsonSerializable
   }
 
 }
- ?>
+

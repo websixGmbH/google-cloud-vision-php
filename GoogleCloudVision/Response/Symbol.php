@@ -26,9 +26,6 @@ class Symbol
    */
   protected $confidence;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

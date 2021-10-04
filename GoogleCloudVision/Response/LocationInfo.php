@@ -12,9 +12,6 @@ class LocationInfo
    */
   protected $latLng;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

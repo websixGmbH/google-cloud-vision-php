@@ -17,10 +17,7 @@ class Landmark
   */
   protected $position;
   
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
 
- ?>
+

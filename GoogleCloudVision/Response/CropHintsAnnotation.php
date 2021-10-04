@@ -13,10 +13,6 @@ class CropHintsAnnotation
   * crop hints result
   */
   protected $cropHints;
-  
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

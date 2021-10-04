@@ -17,9 +17,6 @@ class DetectedBreak
     */
     protected $isPrefix;
     
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

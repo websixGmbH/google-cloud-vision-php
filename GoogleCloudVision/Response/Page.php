@@ -32,11 +32,8 @@ class Page
    */
   protected $confidence;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
 
 
- ?>
+

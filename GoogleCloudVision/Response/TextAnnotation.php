@@ -17,9 +17,6 @@ class TextAnnotation
    */
   protected $text;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

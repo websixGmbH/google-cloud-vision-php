@@ -22,9 +22,6 @@ class Property
    */
   protected $unit64Value
   
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

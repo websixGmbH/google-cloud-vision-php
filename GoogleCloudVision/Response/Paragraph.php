@@ -27,11 +27,8 @@ class Paragraph
    */
   protected $confidence;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
 
 
- ?>
+

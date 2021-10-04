@@ -21,9 +21,6 @@ class WebLabel
   */
   protected $languageCode;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

@@ -12,9 +12,6 @@ class ImageProperties
    */
    protected $dominantColors;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

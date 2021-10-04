@@ -42,9 +42,6 @@ class WebPage
   */
   protected $partialMatchingImages = array();
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

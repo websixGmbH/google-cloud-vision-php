@@ -22,10 +22,7 @@ class Position
   */
   protected $z;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
 
- ?>
+

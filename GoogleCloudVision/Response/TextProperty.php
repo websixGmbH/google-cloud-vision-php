@@ -17,9 +17,6 @@ class TextProperty
    */
   protected $detectedBreak;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

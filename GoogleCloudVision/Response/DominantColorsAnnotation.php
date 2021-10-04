@@ -12,9 +12,6 @@ class DominantColorsAnnotation
   */
   protected $colors = array();
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

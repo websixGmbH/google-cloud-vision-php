@@ -22,9 +22,5 @@ class ColorInfo
    */
   protected $pixelFraction;
 
-  function __construct(argument)
-  {
-    # code...
-  }
 }
- ?>
+

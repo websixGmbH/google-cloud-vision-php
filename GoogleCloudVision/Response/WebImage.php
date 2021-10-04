@@ -21,9 +21,6 @@ class WebImage
   */
   protected $score;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

@@ -12,9 +12,4 @@ class BoundingPoly
   */
   protected $vertices = array();
 
-  function __construct(argument)
-  {
-    # code...
-  }
 }
- ?>

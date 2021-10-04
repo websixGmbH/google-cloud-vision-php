@@ -10,43 +10,37 @@ class FaceAnnotation
   /**
   *The bounding polygon around the face.
   */
-  protected $boundingPoly;
+    protected $boundingPoly;
 
   /**
   *The fdBoundingPoly bounding polygon is tighter than the boundingPoly, and encloses only the skin part of the face
   */
-  protected $fdBoundingPoly;
+    protected $fdBoundingPoly;
 
-  protected $landmarks = array();
+    protected $landmarks = array();
 
-  protected $rollAngle;
+    protected $rollAngle;
 
-  protected $panAngle;
+    protected $panAngle;
 
-  protected $tiltAngle;
+    protected $tiltAngle;
 
-  protected $detectionConfidence;
+    protected $detectionConfidence;
 
-  protected $landmarkingConfidence;
+    protected $landmarkingConfidence;
 
-  protected $joyLikelihood;
+    protected $joyLikelihood;
 
-  protected $sorrowLikelihood;
+    protected $sorrowLikelihood;
 
-  protected $angerLikelihood;
+    protected $angerLikelihood;
 
-  protected $surpriseLikelihood;
+    protected $surpriseLikelihood;
 
-  protected $underExposedLikelihood;
+    protected $underExposedLikelihood;
 
-  protected $blurredLikelihood;
+    protected $blurredLikelihood;
 
-  protected $headwearLikelihood;
+    protected $headwearLikelihood;
 
-  function __construct(argument)
-  {
-    # code...
-  }
 }
-
- ?>

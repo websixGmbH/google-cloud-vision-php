@@ -17,9 +17,6 @@ class DetectedLanguage
    */
   protected $confidence;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

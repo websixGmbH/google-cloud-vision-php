@@ -32,9 +32,6 @@ class SafeSearchAnnotation
   */
   protected $racy;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

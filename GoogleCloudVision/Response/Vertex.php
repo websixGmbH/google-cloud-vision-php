@@ -18,9 +18,6 @@ class Vertex
 
   protected $y;
   
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

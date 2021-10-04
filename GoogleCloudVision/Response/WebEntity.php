@@ -28,9 +28,6 @@ class WebEntity
   */
   protected $description;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

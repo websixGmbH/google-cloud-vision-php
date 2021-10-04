@@ -34,9 +34,4 @@ class Color
    */
    protected $alpha;
 
-  function __construct(argument)
-  {
-    # code...
-  }
 }
- ?>

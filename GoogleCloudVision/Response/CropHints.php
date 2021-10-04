@@ -27,11 +27,4 @@ class CropHints
   */
   protected $importanceFraction;
 
-
-  function __construct(argument)
-  {
-    # code...
-  }
 }
-
- ?>

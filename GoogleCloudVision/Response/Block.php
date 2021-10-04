@@ -32,10 +32,4 @@ class Block
    */
   protected $confidence;
 
-  function __construct(argument)
-  {
-    # code...
-  }
 }
-
- ?>

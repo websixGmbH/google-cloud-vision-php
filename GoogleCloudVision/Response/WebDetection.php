@@ -49,9 +49,6 @@ class WebDetection
   */
   protected $bestGuessLabels = array();
   
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+

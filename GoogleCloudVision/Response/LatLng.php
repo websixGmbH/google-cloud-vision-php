@@ -23,4 +23,4 @@ class LatLng
     $this->longitude = $longitude;
   }
 }
- ?>
+

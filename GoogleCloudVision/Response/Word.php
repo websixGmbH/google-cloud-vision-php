@@ -27,9 +27,6 @@ class Word
    */
   protected $confidence;
 
-  function __construct(argument)
-  {
-    # code...
-  }
+
 }
- ?>
+
