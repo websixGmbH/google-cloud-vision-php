@@ -49,8 +49,8 @@ class AnnotateImageRequest implements JsonSerializable
     array_push($this->features, $feature);
   }
 
-  public function setImageContext(){
-    $this->imageContext = new ImageContext();
+  public function setImageContext(ImageContext $imageContext){
+    $this->imageContext = $imageContext;
   }
 
   public function getImage(){
