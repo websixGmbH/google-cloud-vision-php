@@ -12,42 +12,42 @@ class WebDetection
   *
   *Deduced entities from similar images on the Internet.
   */
-  protected $webEntities = array();
+  protected $webEntities = [];
 
   /**
   * @var array
   *
   *Fully matching images from the Internet
   */
-  protected $fullMatchingImages = array();
+  protected $fullMatchingImages = [];
 
   /**
   * @var array
   *
   *Partial matching images from the Internet
   */
-  protected $partialMatchingImages = array();
+  protected $partialMatchingImages = [];
 
   /**
   * @var array
   *
   *Web pages containing the matching images from the Internet
   */
-  protected $pagesWithMatchingImages = array();
+  protected $pagesWithMatchingImages = [];
 
   /**
   * @var array
   *
   *The visually similar image results.
   */
-  protected $visuallySimilarImages = array();
+  protected $visuallySimilarImages = [];
 
   /**
   * @var array
   *
   *Best guess text labels for the request image.
   */
-  protected $bestGuessLabels = array();
+  protected $bestGuessLabels = [];
   
 
 }

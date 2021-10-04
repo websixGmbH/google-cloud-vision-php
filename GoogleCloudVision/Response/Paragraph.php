@@ -20,7 +20,7 @@ class Paragraph
   /**
    *List of words in this paragraph.
    */
-  protected $words = array();
+  protected $words = [];
 
   /**
    *Confidence of the OCR results for the paragraph. Range [0, 1].

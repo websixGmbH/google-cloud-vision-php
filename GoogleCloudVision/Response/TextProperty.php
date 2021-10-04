@@ -10,7 +10,7 @@ class TextProperty
   /**
    * A list of detected languages together with confidence.
    */
-  protected $detectedLanguages = array();
+  protected $detectedLanguages = [];
 
   /**
    * Detected start or end of a text segment. 

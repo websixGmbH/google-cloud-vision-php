@@ -17,7 +17,7 @@ class FaceAnnotation
   */
     protected $fdBoundingPoly;
 
-    protected $landmarks = array();
+    protected $landmarks = [];
 
     protected $rollAngle;
 

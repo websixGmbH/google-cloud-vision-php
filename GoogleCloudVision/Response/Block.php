@@ -20,7 +20,7 @@ class Block
   /**
    *  List of paragraphs in this block
    */
-  protected $paragraphs = array();
+  protected $paragraphs = [];
 
   /**
    *  Detected block type (text, image etc) for this block.

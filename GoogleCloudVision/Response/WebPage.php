@@ -33,14 +33,14 @@ class WebPage
   *
   *Fully matching images on the page
   */
-  protected $fullMatchingImages = array();
+  protected $fullMatchingImages = [];
 
   /**
   * @var array
   *
   *Partial matching images on the page
   */
-  protected $partialMatchingImages = array();
+  protected $partialMatchingImages = [];
 
 
 }

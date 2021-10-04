@@ -1,12 +1,10 @@
 <?php
 namespace GoogleCloudVision\Request;
 use JsonSerializable;
-/**
- *
- */
+
 class CropHintsParams implements JsonSerializable
 {
-  protected $apectRatios = array();
+  protected $apectRatios = [];
 
   function __construct($aspectRatios)
   {

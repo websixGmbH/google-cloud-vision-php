@@ -40,12 +40,12 @@ class EntityAnnotation
   /**
   * The location information for the detected entity
   */
-  protected $locations = array();
+  protected $locations = [];
 
   /**
   * Some entities may have optional user-supplied Property (name/value) fields, such a score or string that qualifies the entity. 
   */
-  protected $properties = array();
+  protected $properties = [];
 
 
 }

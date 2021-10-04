@@ -10,7 +10,7 @@ class DominantColorsAnnotation
   /**
   *  RGB color values with their score and pixel fraction.
   */
-  protected $colors = array();
+  protected $colors = [];
 
 
 }

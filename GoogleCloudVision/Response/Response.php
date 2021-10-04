@@ -13,7 +13,7 @@ class Response implements JsonSerializable
   *
   * Individual responses to image annotation requests within the batch.
   */
-  protected $responses = array();
+  protected $responses = [];
 
   function __construct($responses)
   {

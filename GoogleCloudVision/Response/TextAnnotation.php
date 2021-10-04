@@ -10,7 +10,7 @@ class TextAnnotation
   /**
    *List of pages detected by OCR.
    */
-  protected $pages = array();
+  protected $pages = [];
 
   /**
    *UTF-8 text detected on the pages. 

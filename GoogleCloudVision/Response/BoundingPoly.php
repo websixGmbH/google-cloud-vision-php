@@ -10,6 +10,6 @@ class BoundingPoly
   /**
   *The bounding poly vertices
   */
-  protected $vertices = array();
+  protected $vertices = [];
 
 }

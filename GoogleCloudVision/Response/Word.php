@@ -20,7 +20,7 @@ class Word
   /**
    * List of symbols in the word.
    */
-  protected $symbols = array();
+  protected $symbols = [];
 
   /**
    * Confidence of the OCR results for the word. Range [0, 1]. 

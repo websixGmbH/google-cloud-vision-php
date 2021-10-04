@@ -17,7 +17,7 @@ class ImageContext implements JsonSerializable
   /**
   *List of languages to use for TEXT_DETECTION
   */
-  protected $languageHints = array();
+  protected $languageHints = [];
 
   /**
   *Parameters for crop hints annotation request.

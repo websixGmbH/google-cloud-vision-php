@@ -14,35 +14,35 @@ class AnnotateImageResponse
      *
      *If present, face detection has completed successfully.
      */
-    protected $faceAnnotations = array();
+    protected $faceAnnotations = [];
 
     /**
      * @var array
      *
      *If present, landmark detection has completed successfully.
      */
-    protected $landmarkAnnotations = array();
+    protected $landmarkAnnotations = [];
 
     /**
      * @var array
      *
      *If present, logo detection has completed successfully.
      */
-    protected $logoAnnotations = array();
+    protected $logoAnnotations = [];
 
     /**
      * @var array
      *
      *If present, label detection has completed successfully.
      */
-    protected $labelAnnotations = array();
+    protected $labelAnnotations = [];
 
     /**
      * @var array
      *
      *If present, text (OCR) detection has completed successfully.
      */
-    protected $textAnnotations = array();
+    protected $textAnnotations = [];
 
     /**
      * @var TextAnnotation

@@ -20,7 +20,7 @@ class AnnotateImageRequest implements JsonSerializable
   /**
    *Requested features
    */
-  protected $features = array();
+  protected $features = [];
 
   /**
   *Additional context that may accompany the image.

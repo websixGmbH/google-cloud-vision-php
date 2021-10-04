@@ -13,7 +13,7 @@ class Request implements JsonSerializable
   *
   *Individual image annotation requests for this batch.
   */
-  protected $requests = array();
+  protected $requests = [];
 
   function __construct($requests)
   {
